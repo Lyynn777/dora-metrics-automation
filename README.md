@@ -5,7 +5,7 @@ This project automatically generates deployment logs, calculates the four DORA m
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✔ Realistic deployment log simulation (30 days)
 - ✔ Automated calculation of:
@@ -23,7 +23,7 @@ This project automatically generates deployment logs, calculates the four DORA m
 
 ---
 
-## 🧠 What Are DORA Metrics?
+## What Are DORA Metrics?
 
 DORA (DevOps Research & Assessment) metrics measure the performance of software delivery teams:
 
@@ -47,18 +47,3 @@ DORA (DevOps Research & Assessment) metrics measure the performance of software 
 
 
 ---
-
-## 📅 Automation Schedule
-
-The workflow runs **every day at 00:00 UTC**.
-
----
-
-## 📦 Run Locally (Optional)
-
-```
-pip install -r requirements.txt
-python src/log_generator.py
-python src/metrics_calculator.py
-python src/generate_graphs.py
-```
