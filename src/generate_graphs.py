@@ -11,6 +11,8 @@ with open(LOG_PATH, "r") as f:
 for e in logs:
     e["deploy_time"] = datetime.fromisoformat(e["deploy_time"])
     e["commit_time"] = datetime.fromisoformat(e["commit_time"])
+    e["recovery_time"] = datetime.fromisoformat(e["recovery_time"]) if e["recovery_time"] else None
+
 
 # 1. Deployment frequency per day
 deployments_per_day = defaultdict(int)
