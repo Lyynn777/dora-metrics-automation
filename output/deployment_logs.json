@@ -1,787 +1,925 @@
 [
     {
-        "commit_time": "2025-11-01T09:41:36.446720",
-        "deploy_time": "2025-11-01T14:25:34.911988",
+        "commit_time": "2025-11-02T21:04:13.844556",
+        "deploy_time": "2025-11-02T21:41:45.423203",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-01T16:41:04.843929",
-        "deploy_time": "2025-11-01T20:17:40.614688",
+        "commit_time": "2025-11-02T19:37:25.876687",
+        "deploy_time": "2025-11-02T22:45:20.876394",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-01T21:13:31.832898",
-        "deploy_time": "2025-11-02T01:16:06.381650",
+        "commit_time": "2025-11-02T16:13:32.157001",
+        "deploy_time": "2025-11-02T18:04:53.287612",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-01T19:06:35.838507",
-        "deploy_time": "2025-11-01T19:28:25.927467",
+        "commit_time": "2025-11-02T05:00:01.689285",
+        "deploy_time": "2025-11-02T08:25:04.726397",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-01T16:06:41.856187",
-        "deploy_time": "2025-11-01T19:15:30.659014",
+        "commit_time": "2025-11-02T21:50:31.091814",
+        "deploy_time": "2025-11-03T01:20:22.202553",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-01T15:25:11.280161",
-        "deploy_time": "2025-11-01T16:16:13.786788",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-02T17:02:59.483638",
-        "deploy_time": "2025-11-02T20:09:51.117370",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-02T10:58:40.838462",
-        "deploy_time": "2025-11-02T14:13:00.108937",
+        "commit_time": "2025-11-02T20:56:42.578270",
+        "deploy_time": "2025-11-03T00:37:58.049387",
         "failed": true,
-        "recovery_time": "2025-11-02T14:38:00.108937"
+        "recovery_time": "2025-11-03T00:48:58.049387"
     },
     {
-        "commit_time": "2025-11-02T07:11:27.435870",
-        "deploy_time": "2025-11-02T11:25:37.760144",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-02T16:29:51.833789",
-        "deploy_time": "2025-11-02T17:36:15.572061",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-03T07:05:28.123445",
-        "deploy_time": "2025-11-03T09:18:12.257185",
+        "commit_time": "2025-11-03T20:56:29.279459",
+        "deploy_time": "2025-11-03T22:15:25.265610",
         "failed": true,
-        "recovery_time": "2025-11-03T09:58:12.257185"
+        "recovery_time": "2025-11-03T23:01:25.265610"
     },
     {
-        "commit_time": "2025-11-03T15:29:03.464981",
-        "deploy_time": "2025-11-03T16:23:53.039238",
+        "commit_time": "2025-11-03T20:44:48.611002",
+        "deploy_time": "2025-11-04T00:14:15.331975",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-03T19:43:58.130102",
-        "deploy_time": "2025-11-03T22:04:53.905630",
+        "commit_time": "2025-11-03T03:39:25.220457",
+        "deploy_time": "2025-11-03T05:48:05.993053",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-03T19:40:11.047026",
+        "deploy_time": "2025-11-03T22:25:53.107202",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T18:48:42.916828",
+        "deploy_time": "2025-11-04T21:23:47.699588",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T15:12:33.442559",
+        "deploy_time": "2025-11-04T16:54:35.561314",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T17:01:02.328031",
+        "deploy_time": "2025-11-04T19:55:00.965822",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T20:01:05.881780",
+        "deploy_time": "2025-11-04T23:41:57.858271",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T21:43:54.560530",
+        "deploy_time": "2025-11-05T02:19:07.936885",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-04T04:06:29.248946",
+        "deploy_time": "2025-11-04T08:37:25.032479",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T12:36:00.337351",
+        "deploy_time": "2025-11-05T13:36:24.516845",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T13:15:28.672213",
+        "deploy_time": "2025-11-05T13:46:40.964259",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T14:12:32.724151",
+        "deploy_time": "2025-11-05T18:49:09.158645",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T21:21:24.325729",
+        "deploy_time": "2025-11-06T01:53:33.390515",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T05:05:39.656414",
+        "deploy_time": "2025-11-05T09:50:30.985163",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-05T19:22:47.743939",
+        "deploy_time": "2025-11-05T22:40:59.538290",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-06T13:31:01.935193",
+        "deploy_time": "2025-11-06T14:22:46.750684",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-06T02:51:30.058072",
+        "deploy_time": "2025-11-06T06:52:41.865120",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-06T12:41:37.252216",
+        "deploy_time": "2025-11-06T15:45:49.755222",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-06T18:23:12.213271",
+        "deploy_time": "2025-11-06T22:37:38.219718",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-06T12:16:04.157183",
+        "deploy_time": "2025-11-06T13:27:27.191422",
         "failed": true,
-        "recovery_time": "2025-11-03T22:28:53.905630"
+        "recovery_time": "2025-11-06T13:32:27.191422"
     },
     {
-        "commit_time": "2025-11-03T03:59:09.494029",
-        "deploy_time": "2025-11-03T04:20:03.130215",
+        "commit_time": "2025-11-06T20:15:40.542533",
+        "deploy_time": "2025-11-06T20:57:33.558740",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-03T08:34:24.395802",
-        "deploy_time": "2025-11-03T10:14:40.304365",
+        "commit_time": "2025-11-06T06:06:38.579664",
+        "deploy_time": "2025-11-06T06:41:55.273623",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-04T02:57:56.400536",
-        "deploy_time": "2025-11-04T07:19:28.736942",
+        "commit_time": "2025-11-06T21:33:35.179181",
+        "deploy_time": "2025-11-07T01:23:40.954428",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-04T15:22:44.582246",
-        "deploy_time": "2025-11-04T19:58:14.587661",
+        "commit_time": "2025-11-07T08:13:30.348548",
+        "deploy_time": "2025-11-07T09:05:25.842691",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-05T08:18:08.228572",
-        "deploy_time": "2025-11-05T12:13:18.201535",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-05T20:04:10.575881",
-        "deploy_time": "2025-11-05T23:40:48.911874",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-05T08:28:07.981501",
-        "deploy_time": "2025-11-05T09:51:49.328717",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-06T10:51:38.764431",
-        "deploy_time": "2025-11-06T12:57:38.601514",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-06T22:16:23.855873",
-        "deploy_time": "2025-11-07T02:59:34.647753",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T04:33:27.199986",
-        "deploy_time": "2025-11-07T06:13:33.551109",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T14:44:31.881037",
-        "deploy_time": "2025-11-07T16:03:36.040453",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T02:55:48.230841",
-        "deploy_time": "2025-11-07T04:06:08.717192",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T03:08:48.662612",
-        "deploy_time": "2025-11-07T04:19:35.443824",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T20:42:55.404114",
-        "deploy_time": "2025-11-08T00:41:04.320918",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-07T14:41:37.939366",
-        "deploy_time": "2025-11-07T18:26:05.667143",
+        "commit_time": "2025-11-07T02:37:54.033697",
+        "deploy_time": "2025-11-07T03:02:46.135631",
         "failed": true,
-        "recovery_time": "2025-11-07T19:06:05.667143"
+        "recovery_time": "2025-11-07T03:32:46.135631"
     },
     {
-        "commit_time": "2025-11-08T06:02:43.200576",
-        "deploy_time": "2025-11-08T10:39:58.539040",
+        "commit_time": "2025-11-07T17:22:24.854380",
+        "deploy_time": "2025-11-07T18:15:08.056019",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-08T06:03:02.558461",
-        "deploy_time": "2025-11-08T08:47:19.085951",
+        "commit_time": "2025-11-07T06:29:34.033551",
+        "deploy_time": "2025-11-07T09:10:04.392131",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-07T11:07:23.040702",
+        "deploy_time": "2025-11-07T14:11:12.464430",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-07T18:36:11.416418",
+        "deploy_time": "2025-11-07T19:17:34.748434",
         "failed": true,
-        "recovery_time": "2025-11-08T09:35:19.085951"
+        "recovery_time": "2025-11-07T20:00:34.748434"
     },
     {
-        "commit_time": "2025-11-08T14:29:53.471641",
-        "deploy_time": "2025-11-08T17:48:08.726082",
+        "commit_time": "2025-11-07T10:24:35.833723",
+        "deploy_time": "2025-11-07T14:20:30.570827",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-08T07:49:01.416765",
-        "deploy_time": "2025-11-08T11:52:17.473698",
+        "commit_time": "2025-11-08T13:58:21.347992",
+        "deploy_time": "2025-11-08T15:48:31.895428",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-09T02:58:05.840365",
-        "deploy_time": "2025-11-09T04:43:56.427136",
+        "commit_time": "2025-11-08T05:52:48.921549",
+        "deploy_time": "2025-11-08T06:42:19.339210",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-09T18:46:58.950333",
-        "deploy_time": "2025-11-09T19:55:37.809859",
+        "commit_time": "2025-11-08T07:20:06.119713",
+        "deploy_time": "2025-11-08T11:13:22.228504",
         "failed": true,
-        "recovery_time": "2025-11-09T20:17:37.809859"
+        "recovery_time": "2025-11-08T11:30:22.228504"
     },
     {
-        "commit_time": "2025-11-09T21:14:04.072860",
-        "deploy_time": "2025-11-10T01:29:56.666272",
+        "commit_time": "2025-11-08T03:36:45.312284",
+        "deploy_time": "2025-11-08T06:06:03.097400",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-08T09:48:58.588350",
+        "deploy_time": "2025-11-08T14:47:06.400835",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-08T19:03:01.043513",
+        "deploy_time": "2025-11-08T23:56:07.377475",
         "failed": true,
-        "recovery_time": "2025-11-10T02:23:56.666272"
+        "recovery_time": "2025-11-09T00:30:07.377475"
     },
     {
-        "commit_time": "2025-11-09T09:16:18.820831",
-        "deploy_time": "2025-11-09T10:20:54.592549",
+        "commit_time": "2025-11-08T10:41:04.028319",
+        "deploy_time": "2025-11-08T14:14:15.893864",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-10T04:21:33.788391",
-        "deploy_time": "2025-11-10T08:25:22.770449",
+        "commit_time": "2025-11-08T13:21:14.198700",
+        "deploy_time": "2025-11-08T17:09:03.420824",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-11T17:37:38.985811",
-        "deploy_time": "2025-11-11T18:23:44.141352",
+        "commit_time": "2025-11-09T17:40:31.313318",
+        "deploy_time": "2025-11-09T21:35:32.056212",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-11T20:43:13.672633",
-        "deploy_time": "2025-11-11T23:25:02.310778",
+        "commit_time": "2025-11-09T17:06:03.359339",
+        "deploy_time": "2025-11-09T20:58:19.008125",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-09T10:32:19.228430",
+        "deploy_time": "2025-11-09T15:16:40.868714",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-09T13:44:16.356656",
+        "deploy_time": "2025-11-09T16:39:30.046229",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-09T17:54:57.703572",
+        "deploy_time": "2025-11-09T19:20:32.268736",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-09T11:29:26.143452",
+        "deploy_time": "2025-11-09T14:55:38.387842",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-10T02:02:29.401167",
+        "deploy_time": "2025-11-10T02:57:10.109660",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-10T14:21:13.603534",
+        "deploy_time": "2025-11-10T17:23:36.446433",
         "failed": true,
-        "recovery_time": "2025-11-11T23:49:02.310778"
+        "recovery_time": "2025-11-10T17:47:36.446433"
     },
     {
-        "commit_time": "2025-11-11T12:50:39.937022",
-        "deploy_time": "2025-11-11T15:34:58.189118",
+        "commit_time": "2025-11-10T10:14:46.410323",
+        "deploy_time": "2025-11-10T12:23:28.534467",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-11T20:23:06.307296",
-        "deploy_time": "2025-11-11T22:51:39.194285",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-11T21:03:53.014778",
-        "deploy_time": "2025-11-11T22:43:51.195395",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-11T18:09:52.821215",
-        "deploy_time": "2025-11-11T23:09:02.727095",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-11T15:43:42.104433",
-        "deploy_time": "2025-11-11T19:40:17.191876",
+        "commit_time": "2025-11-10T15:13:00.103867",
+        "deploy_time": "2025-11-10T17:09:50.817303",
         "failed": true,
-        "recovery_time": "2025-11-11T20:11:17.191876"
+        "recovery_time": "2025-11-10T17:32:50.817303"
     },
     {
-        "commit_time": "2025-11-11T05:02:17.470504",
-        "deploy_time": "2025-11-11T07:50:39.228352",
+        "commit_time": "2025-11-10T21:10:38.570085",
+        "deploy_time": "2025-11-10T23:04:10.764856",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-11T12:32:17.275715",
-        "deploy_time": "2025-11-11T13:39:17.098786",
+        "commit_time": "2025-11-10T07:11:38.443217",
+        "deploy_time": "2025-11-10T12:03:20.413135",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T18:29:53.948372",
-        "deploy_time": "2025-11-12T21:31:31.116022",
+        "commit_time": "2025-11-11T21:34:12.116487",
+        "deploy_time": "2025-11-11T22:30:42.369851",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T18:55:01.907034",
-        "deploy_time": "2025-11-12T21:22:41.062077",
+        "commit_time": "2025-11-11T03:39:34.782997",
+        "deploy_time": "2025-11-11T04:17:16.848175",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T04:00:41.108504",
-        "deploy_time": "2025-11-12T07:23:50.717658",
+        "commit_time": "2025-11-11T17:11:05.823381",
+        "deploy_time": "2025-11-11T21:45:33.404824",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T15:54:53.734219",
-        "deploy_time": "2025-11-12T17:14:20.295533",
+        "commit_time": "2025-11-11T20:55:45.645343",
+        "deploy_time": "2025-11-12T00:05:19.296699",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-11T17:47:27.439570",
+        "deploy_time": "2025-11-11T20:09:13.343080",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-11T18:29:15.222003",
+        "deploy_time": "2025-11-11T20:58:36.853195",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-11T21:40:15.786864",
+        "deploy_time": "2025-11-11T22:45:23.040846",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-12T21:45:08.314425",
+        "deploy_time": "2025-11-13T02:36:52.707698",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-12T02:29:27.915535",
+        "deploy_time": "2025-11-12T04:43:43.976552",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-12T13:03:57.841807",
+        "deploy_time": "2025-11-12T14:34:56.213788",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-12T18:08:40.904953",
+        "deploy_time": "2025-11-12T18:35:25.089954",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-13T15:08:01.014343",
+        "deploy_time": "2025-11-13T19:54:51.993722",
         "failed": true,
-        "recovery_time": "2025-11-12T17:40:20.295533"
+        "recovery_time": "2025-11-13T20:25:51.993722"
     },
     {
-        "commit_time": "2025-11-12T17:15:42.378197",
-        "deploy_time": "2025-11-12T19:05:49.369727",
+        "commit_time": "2025-11-13T08:54:45.011547",
+        "deploy_time": "2025-11-13T12:14:31.230619",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T14:35:10.906934",
-        "deploy_time": "2025-11-12T19:11:44.120210",
+        "commit_time": "2025-11-14T18:43:12.606712",
+        "deploy_time": "2025-11-14T23:22:08.082383",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-12T12:47:28.243931",
-        "deploy_time": "2025-11-12T15:11:09.307299",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-13T17:10:04.709848",
-        "deploy_time": "2025-11-13T19:49:53.587065",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-13T05:34:08.335257",
-        "deploy_time": "2025-11-13T10:32:16.245706",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-13T13:14:30.493458",
-        "deploy_time": "2025-11-13T14:25:46.118916",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-13T19:28:56.909801",
-        "deploy_time": "2025-11-13T22:23:16.136023",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-13T02:48:53.225768",
-        "deploy_time": "2025-11-13T05:16:40.789153",
+        "commit_time": "2025-11-14T03:04:24.717321",
+        "deploy_time": "2025-11-14T05:27:57.146044",
         "failed": true,
-        "recovery_time": "2025-11-13T05:33:40.789153"
+        "recovery_time": "2025-11-14T05:41:57.146044"
     },
     {
-        "commit_time": "2025-11-13T19:24:58.802252",
-        "deploy_time": "2025-11-13T21:29:56.105814",
+        "commit_time": "2025-11-14T07:52:42.432309",
+        "deploy_time": "2025-11-14T09:59:12.278842",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-13T10:21:41.778557",
-        "deploy_time": "2025-11-13T11:30:17.416660",
+        "commit_time": "2025-11-14T09:21:04.681774",
+        "deploy_time": "2025-11-14T14:00:28.834675",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-14T03:30:18.689050",
-        "deploy_time": "2025-11-14T05:48:21.126019",
+        "commit_time": "2025-11-14T19:18:47.946142",
+        "deploy_time": "2025-11-14T20:24:51.888289",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-14T19:00:03.332006",
-        "deploy_time": "2025-11-14T23:19:57.067615",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-14T11:22:15.502585",
-        "deploy_time": "2025-11-14T12:01:39.332807",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-14T16:04:32.070970",
-        "deploy_time": "2025-11-14T19:11:12.833493",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-14T05:52:20.073460",
-        "deploy_time": "2025-11-14T07:43:26.351260",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-14T09:15:46.173312",
-        "deploy_time": "2025-11-14T10:02:13.824120",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-15T20:08:19.137221",
-        "deploy_time": "2025-11-15T23:19:33.417060",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-16T15:46:52.100105",
-        "deploy_time": "2025-11-16T19:22:17.027053",
+        "commit_time": "2025-11-14T19:20:59.005406",
+        "deploy_time": "2025-11-14T20:15:13.848508",
         "failed": true,
-        "recovery_time": "2025-11-16T19:36:17.027053"
+        "recovery_time": "2025-11-14T21:05:13.848508"
     },
     {
-        "commit_time": "2025-11-16T19:04:40.587359",
-        "deploy_time": "2025-11-16T19:49:42.906140",
+        "commit_time": "2025-11-14T14:40:00.827926",
+        "deploy_time": "2025-11-14T16:50:41.840557",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-16T05:50:54.573526",
-        "deploy_time": "2025-11-16T06:21:13.049026",
+        "commit_time": "2025-11-15T13:53:49.075226",
+        "deploy_time": "2025-11-15T17:39:16.325934",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-16T10:58:45.166428",
-        "deploy_time": "2025-11-16T14:48:29.372780",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-16T11:53:36.787328",
-        "deploy_time": "2025-11-16T13:22:03.944649",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-16T04:38:34.934110",
-        "deploy_time": "2025-11-16T09:17:30.401592",
+        "commit_time": "2025-11-15T14:39:21.930752",
+        "deploy_time": "2025-11-15T15:11:50.614916",
         "failed": true,
-        "recovery_time": "2025-11-16T10:07:30.401592"
+        "recovery_time": "2025-11-15T16:14:50.614916"
     },
     {
-        "commit_time": "2025-11-16T18:59:23.302449",
-        "deploy_time": "2025-11-16T21:02:38.205765",
+        "commit_time": "2025-11-16T13:24:16.775084",
+        "deploy_time": "2025-11-16T17:46:50.647508",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-17T16:57:01.340956",
-        "deploy_time": "2025-11-17T17:46:12.902148",
+        "commit_time": "2025-11-16T08:34:41.657952",
+        "deploy_time": "2025-11-16T12:55:19.761145",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-16T17:24:25.607602",
+        "deploy_time": "2025-11-16T22:24:24.775632",
         "failed": true,
-        "recovery_time": "2025-11-17T18:32:12.902148"
+        "recovery_time": "2025-11-16T22:49:24.775632"
     },
     {
-        "commit_time": "2025-11-17T05:49:56.997513",
-        "deploy_time": "2025-11-17T07:56:42.018162",
+        "commit_time": "2025-11-17T04:44:10.138572",
+        "deploy_time": "2025-11-17T09:38:01.842655",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-17T07:58:24.192414",
-        "deploy_time": "2025-11-17T10:43:19.697879",
+        "commit_time": "2025-11-18T17:04:27.075784",
+        "deploy_time": "2025-11-18T21:15:04.864683",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-17T13:34:53.038125",
-        "deploy_time": "2025-11-17T17:47:54.856554",
+        "commit_time": "2025-11-18T15:09:18.654726",
+        "deploy_time": "2025-11-18T18:23:27.976620",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-18T13:33:14.560352",
+        "deploy_time": "2025-11-18T17:50:03.285572",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-19T19:05:41.959844",
+        "deploy_time": "2025-11-19T23:06:15.991415",
         "failed": true,
-        "recovery_time": "2025-11-17T18:29:54.856554"
+        "recovery_time": "2025-11-19T23:42:15.991415"
     },
     {
-        "commit_time": "2025-11-17T08:44:52.570916",
-        "deploy_time": "2025-11-17T12:46:29.414780",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-17T21:54:11.051465",
-        "deploy_time": "2025-11-18T01:22:11.640894",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-17T15:30:10.848828",
-        "deploy_time": "2025-11-17T19:26:56.133838",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-17T04:51:44.942647",
-        "deploy_time": "2025-11-17T09:22:36.404753",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-18T17:59:41.940673",
-        "deploy_time": "2025-11-18T21:50:35.203572",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-18T06:13:26.683582",
-        "deploy_time": "2025-11-18T07:30:38.124592",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-18T19:26:25.186006",
-        "deploy_time": "2025-11-18T20:28:37.094011",
+        "commit_time": "2025-11-19T16:36:58.099010",
+        "deploy_time": "2025-11-19T17:39:08.724094",
         "failed": true,
-        "recovery_time": "2025-11-18T20:44:37.094011"
+        "recovery_time": "2025-11-19T17:56:08.724094"
     },
     {
-        "commit_time": "2025-11-18T21:44:21.644423",
-        "deploy_time": "2025-11-18T23:22:31.119686",
+        "commit_time": "2025-11-19T18:56:27.704391",
+        "deploy_time": "2025-11-19T19:57:09.429030",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-19T08:19:46.106575",
-        "deploy_time": "2025-11-19T11:45:51.126106",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-19T13:38:02.448494",
-        "deploy_time": "2025-11-19T15:52:41.317531",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-19T15:59:01.976485",
-        "deploy_time": "2025-11-19T17:46:11.241699",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-20T20:27:48.148420",
-        "deploy_time": "2025-11-20T23:26:53.594739",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-20T16:05:12.513556",
-        "deploy_time": "2025-11-20T19:56:38.980314",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-20T12:54:14.328205",
-        "deploy_time": "2025-11-20T16:07:30.101875",
+        "commit_time": "2025-11-19T08:50:49.924024",
+        "deploy_time": "2025-11-19T11:27:46.691292",
         "failed": true,
-        "recovery_time": "2025-11-20T16:19:30.101875"
+        "recovery_time": "2025-11-19T12:17:46.691292"
     },
     {
-        "commit_time": "2025-11-20T16:04:11.591896",
-        "deploy_time": "2025-11-20T18:45:08.178089",
+        "commit_time": "2025-11-19T09:13:09.708159",
+        "deploy_time": "2025-11-19T13:16:31.867916",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-20T20:14:50.392682",
-        "deploy_time": "2025-11-21T00:15:13.146438",
+        "commit_time": "2025-11-19T18:12:38.226837",
+        "deploy_time": "2025-11-19T21:23:11.928179",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-21T07:11:46.463947",
-        "deploy_time": "2025-11-21T08:21:58.329580",
+        "commit_time": "2025-11-19T07:26:38.900109",
+        "deploy_time": "2025-11-19T11:10:07.714995",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T17:21:57.591553",
-        "deploy_time": "2025-11-22T20:20:37.424033",
+        "commit_time": "2025-11-19T03:40:41.956806",
+        "deploy_time": "2025-11-19T08:21:41.344530",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T11:43:06.085755",
-        "deploy_time": "2025-11-22T12:57:05.590258",
+        "commit_time": "2025-11-20T18:26:08.304992",
+        "deploy_time": "2025-11-20T19:21:47.619096",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T10:44:23.572734",
+        "deploy_time": "2025-11-21T11:21:06.562414",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T12:35:57.606826",
+        "deploy_time": "2025-11-21T16:06:27.941062",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T13:35:27.817116",
+        "deploy_time": "2025-11-21T18:25:55.099378",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T18:06:54.071909",
+        "deploy_time": "2025-11-21T20:14:36.508080",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T10:07:16.829685",
+        "deploy_time": "2025-11-21T14:38:13.700722",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-21T06:24:13.378632",
+        "deploy_time": "2025-11-21T10:57:19.208913",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-22T04:52:32.674905",
+        "deploy_time": "2025-11-22T08:32:32.331887",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-22T13:15:57.111556",
+        "deploy_time": "2025-11-22T17:43:15.163731",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-22T18:40:15.040979",
+        "deploy_time": "2025-11-22T20:34:42.563877",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-22T10:56:20.063962",
+        "deploy_time": "2025-11-22T14:52:50.613306",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-22T13:22:37.685032",
+        "deploy_time": "2025-11-22T15:21:19.029685",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-23T13:07:11.280472",
+        "deploy_time": "2025-11-23T16:01:46.353085",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-23T21:40:37.076629",
+        "deploy_time": "2025-11-24T00:35:20.814194",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-23T11:09:25.594877",
+        "deploy_time": "2025-11-23T14:51:49.631625",
         "failed": true,
-        "recovery_time": "2025-11-22T13:31:05.590258"
+        "recovery_time": "2025-11-23T15:43:49.631625"
     },
     {
-        "commit_time": "2025-11-22T18:09:16.656678",
-        "deploy_time": "2025-11-22T21:28:42.062331",
+        "commit_time": "2025-11-23T02:46:53.731729",
+        "deploy_time": "2025-11-23T03:20:20.805729",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T04:09:58.843352",
-        "deploy_time": "2025-11-22T07:38:11.272163",
+        "commit_time": "2025-11-23T03:55:40.147329",
+        "deploy_time": "2025-11-23T07:15:28.376962",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-23T05:32:13.942368",
+        "deploy_time": "2025-11-23T07:20:26.876094",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-23T15:10:42.351362",
+        "deploy_time": "2025-11-23T16:59:51.571785",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-24T17:33:27.223798",
+        "deploy_time": "2025-11-24T20:17:14.473845",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-24T07:35:11.664991",
+        "deploy_time": "2025-11-24T10:44:53.160605",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-24T05:13:01.269919",
+        "deploy_time": "2025-11-24T08:42:23.600301",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-24T09:11:11.362428",
+        "deploy_time": "2025-11-24T11:24:51.942345",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-24T03:32:29.918352",
+        "deploy_time": "2025-11-24T05:48:14.094583",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-25T17:12:57.731004",
+        "deploy_time": "2025-11-25T17:34:05.519293",
+        "failed": false,
+        "recovery_time": null
+    },
+    {
+        "commit_time": "2025-11-25T03:47:14.836712",
+        "deploy_time": "2025-11-25T07:01:35.712866",
         "failed": true,
-        "recovery_time": "2025-11-22T07:58:11.272163"
+        "recovery_time": "2025-11-25T07:26:35.712866"
     },
     {
-        "commit_time": "2025-11-22T16:13:16.931711",
-        "deploy_time": "2025-11-22T19:57:04.221098",
+        "commit_time": "2025-11-25T09:39:44.580811",
+        "deploy_time": "2025-11-25T12:40:42.483514",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T10:56:05.434605",
-        "deploy_time": "2025-11-22T14:45:15.406095",
+        "commit_time": "2025-11-25T05:30:13.771706",
+        "deploy_time": "2025-11-25T09:16:52.161794",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T14:32:26.105872",
-        "deploy_time": "2025-11-22T19:26:49.328274",
+        "commit_time": "2025-11-25T11:29:49.862185",
+        "deploy_time": "2025-11-25T13:24:27.401262",
+        "failed": true,
+        "recovery_time": "2025-11-25T13:29:27.401262"
+    },
+    {
+        "commit_time": "2025-11-25T18:14:23.271346",
+        "deploy_time": "2025-11-25T18:48:57.038980",
+        "failed": true,
+        "recovery_time": "2025-11-25T19:12:57.038980"
+    },
+    {
+        "commit_time": "2025-11-26T09:39:56.397125",
+        "deploy_time": "2025-11-26T11:00:11.557307",
+        "failed": true,
+        "recovery_time": "2025-11-26T11:43:11.557307"
+    },
+    {
+        "commit_time": "2025-11-26T16:09:01.567597",
+        "deploy_time": "2025-11-26T19:24:53.864566",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-22T03:21:11.895476",
-        "deploy_time": "2025-11-22T04:32:17.841891",
+        "commit_time": "2025-11-26T15:33:14.014671",
+        "deploy_time": "2025-11-26T16:40:32.214459",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-23T11:54:44.621209",
-        "deploy_time": "2025-11-23T14:04:03.642375",
+        "commit_time": "2025-11-26T21:21:23.290250",
+        "deploy_time": "2025-11-27T01:10:58.187429",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-23T11:51:46.692165",
-        "deploy_time": "2025-11-23T13:37:37.074716",
+        "commit_time": "2025-11-26T17:29:40.292758",
+        "deploy_time": "2025-11-26T19:19:02.453108",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-23T07:04:16.482964",
-        "deploy_time": "2025-11-23T08:14:45.568956",
+        "commit_time": "2025-11-26T13:29:44.348547",
+        "deploy_time": "2025-11-26T14:15:24.268911",
+        "failed": true,
+        "recovery_time": "2025-11-26T14:43:24.268911"
+    },
+    {
+        "commit_time": "2025-11-27T09:25:55.312976",
+        "deploy_time": "2025-11-27T10:08:03.267218",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-23T03:28:39.866662",
-        "deploy_time": "2025-11-23T05:54:01.049084",
+        "commit_time": "2025-11-27T12:08:19.581755",
+        "deploy_time": "2025-11-27T12:47:08.405662",
+        "failed": true,
+        "recovery_time": "2025-11-27T13:36:08.405662"
+    },
+    {
+        "commit_time": "2025-11-27T08:11:58.693059",
+        "deploy_time": "2025-11-27T12:53:29.804919",
+        "failed": true,
+        "recovery_time": "2025-11-27T13:15:29.804919"
+    },
+    {
+        "commit_time": "2025-11-27T08:09:03.502234",
+        "deploy_time": "2025-11-27T09:29:35.030551",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-23T15:27:30.027474",
-        "deploy_time": "2025-11-23T16:10:59.418290",
+        "commit_time": "2025-11-27T18:54:30.810857",
+        "deploy_time": "2025-11-27T20:31:05.887740",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-24T19:30:15.984858",
-        "deploy_time": "2025-11-24T22:34:51.211587",
+        "commit_time": "2025-11-27T07:44:20.349676",
+        "deploy_time": "2025-11-27T09:16:41.525760",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-24T11:55:56.310813",
-        "deploy_time": "2025-11-24T12:36:59.164241",
+        "commit_time": "2025-11-28T02:38:39.394997",
+        "deploy_time": "2025-11-28T05:05:39.764292",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-24T19:38:36.248224",
-        "deploy_time": "2025-11-24T22:58:58.181679",
+        "commit_time": "2025-11-28T11:35:42.055942",
+        "deploy_time": "2025-11-28T16:28:21.542715",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-25T06:45:47.839614",
-        "deploy_time": "2025-11-25T09:58:49.349559",
+        "commit_time": "2025-11-28T09:34:35.638090",
+        "deploy_time": "2025-11-28T12:13:16.122138",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-25T12:35:50.499741",
-        "deploy_time": "2025-11-25T14:23:31.999605",
+        "commit_time": "2025-11-28T10:39:16.160314",
+        "deploy_time": "2025-11-28T15:34:05.741988",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-25T07:31:26.107357",
-        "deploy_time": "2025-11-25T09:03:18.705716",
+        "commit_time": "2025-11-28T12:22:55.690664",
+        "deploy_time": "2025-11-28T12:47:13.351395",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-25T10:25:15.107840",
-        "deploy_time": "2025-11-25T10:58:29.203652",
+        "commit_time": "2025-11-29T05:27:16.043892",
+        "deploy_time": "2025-11-29T10:17:01.835693",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-25T07:28:55.871407",
-        "deploy_time": "2025-11-25T09:55:48.879214",
+        "commit_time": "2025-11-29T12:19:58.090009",
+        "deploy_time": "2025-11-29T14:02:13.557804",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-26T18:28:55.409828",
-        "deploy_time": "2025-11-26T20:48:00.561759",
+        "commit_time": "2025-11-29T13:00:51.391480",
+        "deploy_time": "2025-11-29T14:08:04.003924",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-26T06:35:43.450505",
-        "deploy_time": "2025-11-26T09:16:55.617018",
+        "commit_time": "2025-11-29T18:06:31.853769",
+        "deploy_time": "2025-11-29T22:17:47.807687",
+        "failed": true,
+        "recovery_time": "2025-11-29T22:37:47.807687"
+    },
+    {
+        "commit_time": "2025-11-29T04:23:56.844962",
+        "deploy_time": "2025-11-29T06:00:13.953941",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-27T18:07:52.874088",
-        "deploy_time": "2025-11-27T20:26:24.106877",
+        "commit_time": "2025-11-30T11:18:51.004213",
+        "deploy_time": "2025-11-30T16:06:24.594929",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-27T06:37:31.395727",
-        "deploy_time": "2025-11-27T09:22:48.064485",
+        "commit_time": "2025-11-30T13:28:53.727355",
+        "deploy_time": "2025-11-30T15:11:02.651146",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-28T16:35:51.967648",
-        "deploy_time": "2025-11-28T19:28:47.598877",
+        "commit_time": "2025-11-30T12:42:20.011742",
+        "deploy_time": "2025-11-30T15:01:41.890555",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-28T03:20:23.954698",
-        "deploy_time": "2025-11-28T03:50:07.257996",
+        "commit_time": "2025-11-30T07:00:13.393560",
+        "deploy_time": "2025-11-30T09:57:49.020532",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-28T21:30:35.347842",
-        "deploy_time": "2025-11-28T23:30:15.057572",
+        "commit_time": "2025-12-01T02:38:15.982518",
+        "deploy_time": "2025-12-01T03:49:45.544423",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-28T20:21:58.409419",
-        "deploy_time": "2025-11-28T23:43:04.337563",
+        "commit_time": "2025-12-01T21:48:39.395407",
+        "deploy_time": "2025-12-01T23:30:20.131670",
         "failed": false,
         "recovery_time": null
     },
     {
-        "commit_time": "2025-11-28T21:25:55.463469",
-        "deploy_time": "2025-11-28T22:13:33.958898",
-        "failed": false,
-        "recovery_time": null
+        "commit_time": "2025-12-01T06:16:42.849622",
+        "deploy_time": "2025-12-01T10:20:04.714836",
+        "failed": true,
+        "recovery_time": "2025-12-01T10:40:04.714836"
     },
     {
-        "commit_time": "2025-11-29T19:57:49.271681",
-        "deploy_time": "2025-11-29T21:27:32.536957",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-30T20:02:37.555584",
-        "deploy_time": "2025-12-01T00:42:05.700607",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-30T04:27:47.159623",
-        "deploy_time": "2025-11-30T05:27:29.637467",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-30T11:15:35.650313",
-        "deploy_time": "2025-11-30T14:28:41.888166",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-30T17:34:04.163340",
-        "deploy_time": "2025-11-30T20:04:28.990218",
-        "failed": false,
-        "recovery_time": null
-    },
-    {
-        "commit_time": "2025-11-30T02:32:30.963954",
-        "deploy_time": "2025-11-30T03:41:23.248874",
+        "commit_time": "2025-12-01T21:02:00.272458",
+        "deploy_time": "2025-12-02T01:19:39.484791",
         "failed": false,
         "recovery_time": null
     }
