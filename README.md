@@ -53,5 +53,3 @@ DORA (DevOps Research & Assessment) metrics measure the performance of software 
 4. Builds graphs.
 5. Automatically commits updated results.
 
-
----
